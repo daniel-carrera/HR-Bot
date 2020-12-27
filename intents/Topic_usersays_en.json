@@ -1,0 +1,117 @@
+[
+  {
+    "id": "26f90431-4bb7-44dc-90b1-650f4b97dee1",
+    "data": [
+      {
+        "text": "Where can I find out about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "meta": "@Topic",
+        "alias": "topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "871dd618-f22e-4999-b7ee-4621bd2181f6",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "meta": "@Topic",
+        "alias": "topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b261448f-fbf2-4223-b8be-5743fa791884",
+    "data": [
+      {
+        "text": "Can you lookup ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "meta": "@Topic",
+        "alias": "topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "730c0c9f-f50f-4067-a6f8-5aa29b17a24c",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "hours of work",
+        "meta": "@Topic",
+        "alias": "topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cb46f74-06ef-4e99-93b5-2b15a18c93f9",
+    "data": [
+      {
+        "text": "I\u0027d like to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "meta": "@Topic",
+        "alias": "topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
